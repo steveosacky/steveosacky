@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @steveosacky
 - 👀 I’m interested in DevOps, IaC, Automation Scripting, Team Building, and Process Improvement
 - 🌱 I’m currently learning Azure Administration, Azure DevOps Solutions, and GitHub Actions
-- 💞️ I’m looking to collaborate on GitHub Advanced Security and GitHub Actions
+- 💞️ I’m looking to collaborate on Azure, DevOps, GitHub Advanced Security and GitHub Actions
 - 📫 How to reach me... :wave:
 
 <!---
